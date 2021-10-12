@@ -964,3 +964,8 @@ footer.copyright a {
 .nav__h5 ,.nav__h6{
   color: var(--light)  ;
 }
+
+
+.nav__heading{
+  color: var(--light);
+}
