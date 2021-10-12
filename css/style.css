@@ -240,6 +240,7 @@ nav .top .container .contact > div h5,
 nav .top .container .time > div h5 {
   font-family: "Raleway-black";
   margin-bottom: 0.25rem;
+   color: var(--light);
 }
 
 nav .top .container .contact > div h6,
