@@ -959,3 +959,8 @@ footer.copyright a {
 .about__us {
   color: var(--pure);
 }
+
+
+.nav__h5 ,.nav__h6{
+  color: var(--light)  ;
+}
